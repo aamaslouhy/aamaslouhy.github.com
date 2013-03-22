@@ -1,0 +1,29 @@
+body {
+	padding-top: 25px;
+}
+
+.date {
+	float: right;
+	font-weight: bold;
+	color: #333;	
+}
+
+.education, .experience, .project {
+	margin-left: 40px;
+}
+
+h2 {
+	color: green;
+}
+
+h3 {
+	color: #555;	
+}
+
+.banner h1 {
+	text-align: center;	
+}
+
+.header .photo {
+	text-align: right;
+}
